@@ -1,0 +1,11 @@
+{
+  "name": "vainillacomponent",
+  "version": "1.0.0",
+  "description": "This is just a vainilla Web Component",
+  "main": "progressBar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
